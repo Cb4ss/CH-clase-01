@@ -1,1 +1,4 @@
-# CH-clase-01
+# Coderhouse clase 1
+## Trabajo practico de la clase 1:
+tags semánticos HTML5.
+
